@@ -1,0 +1,3 @@
+../MCAL/RCC/RCC_Program.c:11:6:RCC_Init	4	static
+../MCAL/RCC/RCC_Program.c:63:6:RCC_PeripheralEnable	16	static
+../MCAL/RCC/RCC_Program.c:267:6:RCC_PeripheralDisable	16	static
