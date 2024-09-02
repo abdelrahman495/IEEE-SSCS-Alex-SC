@@ -24,6 +24,7 @@ C_DEPS :=
 SUBDIRS := \
 MCAL/GPIO \
 MCAL/RCC \
+MCAL/SYSTICK \
 Src \
 Startup \
 

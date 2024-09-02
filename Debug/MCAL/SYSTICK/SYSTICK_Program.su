@@ -1,0 +1,9 @@
+../MCAL/SYSTICK/SYSTICK_Program.c:13:6:SYSTICK_Init	4	static
+../MCAL/SYSTICK/SYSTICK_Program.c:22:6:SYSTICK_DelayMilliSeconds	16	static
+../MCAL/SYSTICK/SYSTICK_Program.c:41:6:SYSTICK_DelayMicroSeconds	16	static
+../MCAL/SYSTICK/SYSTICK_Program.c:60:10:SYSTICK_GetRemainingTime	16	static
+../MCAL/SYSTICK/SYSTICK_Program.c:74:10:SYSTICK_GetElapsedTime	24	static
+../MCAL/SYSTICK/SYSTICK_Program.c:89:6:SYSTICK_EnableInterrupt	4	static
+../MCAL/SYSTICK/SYSTICK_Program.c:94:6:SYSTICK_StartCountMillisecondsIT	16	static
+../MCAL/SYSTICK/SYSTICK_Program.c:107:6:SYSTICK_StartCountMicrosecondsIT	16	static
+../MCAL/SYSTICK/SYSTICK_Program.c:120:6:SysTick_Handler	8	static

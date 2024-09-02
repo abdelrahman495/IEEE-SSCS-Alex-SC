@@ -1,5 +1,6 @@
 "./MCAL/GPIO/GPIO_Program.o"
 "./MCAL/RCC/RCC_Program.o"
+"./MCAL/SYSTICK/SYSTICK_Program.o"
 "./Src/main.o"
 "./Src/syscalls.o"
 "./Src/sysmem.o"
