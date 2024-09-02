@@ -17,12 +17,18 @@
  */
 
 #include "../MCAL/RCC/RCC_Interface.h"
+#include "../MCAL/GPIO/GPIO_Interface.h"
 
 int main(void)
 {
 	RCC_Init();
 	RCC_PeripheralEnable(RCC_IOPA_EN);
+	/*
 	RCC_PeripheralDisable(RCC_IOPA_EN);
+	*/
+	GPIO_Config_t led;
+
+	led.mode = GPIO_MODE_INPUT_PU_PD;
 
     while (1)
     {

@@ -10,7 +10,7 @@
 
 #define RCC_BASE_ADDR	(0x40021000)
 
-typedef struct
+typedef volatile struct
 {
 	UInt32_t CR;
 	UInt32_t CFGR;

@@ -1,3 +1,4 @@
+"./MCAL/GPIO/GPIO_Program.o"
 "./MCAL/RCC/RCC_Program.o"
 "./Src/main.o"
 "./Src/syscalls.o"
